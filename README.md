@@ -21,9 +21,9 @@ Rent a Movie: Enter the title of the movie you wish to rent.
 Return a Movie: Enter the title of the movie you wish to return.
 
 **Code Structure**
-movie.py: Contains the Movie class that defines movie attributes (title, genre, release year).
-movie_rental.py: Contains the MovieRental class that manages the movie collection, rentals, and returns.
-main.py: The entry point of the application where the user interacts with the system.
+**movie.py:** Contains the Movie class that defines movie attributes (title, genre, release year).
+**movie_rental.py:** Contains the MovieRental class that manages the movie collection, rentals, and returns.
+**main.py:** The entry point of the application where the user interacts with the system.
 
 **Contribution**
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
